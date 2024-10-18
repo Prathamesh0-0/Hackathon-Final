@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "357682744999",
+    "project_id": "samvidhan-bpy6vy",
+    "storage_bucket": "samvidhan-bpy6vy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:357682744999:android:15ec7e799a755c9a245582",
+        "android_client_info": {
+          "package_name": "com.mycompany.samvidhan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBx0UOUPVWKzHany2Mp_1v9Iohcl_BKhys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
